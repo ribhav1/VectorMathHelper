@@ -1,0 +1,21 @@
+﻿  Menu.cpp
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\Menu.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\VectorCalculator.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\Menu.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\Menu.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\Menu.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  VectorCalculator.cpp
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\VectorCalculator.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'VectorCalculator.cpp')
+  
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\VectorCalculator.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  VectorMathHelper.cpp
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\VectorMathHelper.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\VectorCalculator.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'VectorMathHelper.cpp')
+  
+C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\VectorMathHelper\VectorMathHelper.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  VectorMathHelper.vcxproj -> C:\Users\turtl\Downloads\projects\C++Projects\VectorMathHelper\x64\Debug\VectorMathHelper.exe
